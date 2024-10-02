@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greyscarr
-- 👀 I’m interested in ... Games and Modding.
-- 🌱 I’m currently learning ... the basics of html, css, java, etc.
+- 👀 I’m interested in ... Games, Digital Electronics, and PCB Design
+- 🌱 I’m currently learning ... how to use Unity.
 - 💞️ I’m looking to collaborate on ... projects in the future involving games which I enjoy.
 - 📫 How to reach me ... GitHub is where I will start.
 
